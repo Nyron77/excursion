@@ -1,0 +1,42 @@
+h1 {
+  font-size: 50px;
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+
+h2 {
+  text-align: center;
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+h3 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+.copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
+.video {
+  text-align: center;
+}
+.camp {
+  text-align: center;
+}
